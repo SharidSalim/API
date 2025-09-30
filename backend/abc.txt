@@ -1,2 +1,0 @@
-DB_LINK="mongodb+srv://Mydoomworm:mern2406cit@mydb.dsb5ugk.mongodb.net/Registration?retryWrites=true&w=majority&appName=MyDB"
-APP_PASS="mafw gibz ovho guaj"
